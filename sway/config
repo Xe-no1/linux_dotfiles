@@ -22,8 +22,8 @@ set $menu wmenu-run
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 output * scale 2
-# output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
-output * bg /home/mazentech/Downloads/5120x2880.png fill
+output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+# output * bg /home/mazentech/Downloads/5120x2880.png fill
 #
 # Example configuration:
 #
